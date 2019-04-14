@@ -1,0 +1,36 @@
+enabling_order = [ "navigation", "punctuation", "alphabet", "are",]
+
+[app]
+"flash develop test" = true
+
+[global]
+Javascript = false
+Java = false
+VHDL = false
+hacks = false
+prolog = false
+"C plus plus" = false
+numbers = true
+Python = false
+alphabet = true
+punctuation = true
+"mark down" = false
+Dart = false
+HTML = false
+matlab = false
+Bash = false
+development = false
+sequel = false
+Rust = false
+latex = false
+"lay tech" = false
+decker = false
+Go = false
+"C sharp" = false
+"test rule" = false
+navigation = true
+are = true
+
+[selfmod]
+"chain alias" = true
+history = true

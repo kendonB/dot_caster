@@ -1,0 +1,148 @@
+[pronunciations]
+jquery = "J query"
+"c++" = "C plus plus"
+
+[paths]
+USER_DIR = "C:/Users/kendon/.caster"
+WSR_PATH = "C:/Windows/Speech/Common/sapisvr.exe"
+RAINBOW_PATH = "C:/Users/kendon/Documents/caster/castervoice/asynch/mouse/grids.py"
+CONFIGDEBUGTXT_PATH = "C:/Users/kendon/.caster/data/configdebug.txt"
+SAVED_CLIPBOARD_PATH = "C:/Users/kendon/.caster/data/clipboard.toml"
+MEDIA_PATH = "C:/Users/kendon/Documents/caster/castervoice/bin/media"
+DLL_PATH = "C:/Users/kendon/Documents/caster/castervoice/lib/dll/"
+BRINGME_PATH = "C:/Users/kendon/.caster/data/bringme.toml"
+LOG_PATH = "C:/Users/kendon/.caster/log.txt"
+ENGINE_PATH = "C:/Program Files (x86)/Nuance/NaturallySpeaking15/Program/natspeak.exe"
+SIKULI_IDE = "C:/Users/kendon/Downloads/sikulix.jar"
+HOMUNCULUS_PATH = "C:/Users/kendon/Documents/caster/castervoice/asynch/hmc/h_launch.py"
+BRINGME_DEFAULTS_PATH = "C:/Users/kendon/Documents/caster/castervoice/bin/share/bringme.toml.defaults"
+DOUGLAS_PATH = "C:/Users/kendon/Documents/caster/castervoice/asynch/mouse/grids.py"
+REMOTE_DEBUGGER_PATH = ""
+CCR_CONFIG_PATH = "C:/Users/kendon/.caster/data/ccr.toml"
+SIKULI_RUNNER = "C:/Users/kendon/Downloads/sikulix.jar"
+LEGION_PATH = "C:/Users/kendon/Documents/caster/castervoice/asynch/mouse/legion.py"
+WXPYTHON_PATH = "C:/Python27/Lib/site-packages/wx-3.0-msw"
+REBOOT_PATH = "C:/Users/kendon/Documents/caster/castervoice/bin/reboot.bat"
+RECORDED_MACROS_PATH = "C:/Users/kendon/.caster/data/recorded_macros.toml"
+SIKULI_SERVER_PATH = "C:/Users/kendon/Documents/caster/castervoice/asynch/sikuli/server/xmlrpc_server.sikuli"
+FILTER_DEFS_PATH = "C:/Users/kendon/.caster/data/words.txt"
+REBOOT_PATH_WSR = "C:/Users/kendon/Documents/caster/castervoice/bin/reboot_wsr.bat"
+SETTINGS_WINDOW_PATH = "C:/Users/kendon/Documents/caster/castervoice/asynch/settingswindow.py"
+BASE_PATH = "C:/Users/kendon/Documents/caster/castervoice"
+PYTHONW = "C:/Python27/pythonw"
+ALIAS_PATH = "C:/Users/kendon/.caster/data/aliases.toml"
+SIKULI_SCRIPTS_PATH = "C:/Users/kendon/.caster/sikuli"
+
+[feature_rules]
+again = true
+hmc = true
+chainalias = true
+alias = true
+
+[python]
+pip = "pip"
+version = "python"
+automatic_settings = true
+
+[apps]
+outlook = true
+firefox = true
+winword = true
+lyx = true
+visualstudiocode = true
+msvc = true
+githubdesktop = true
+kdiff3 = true
+filedialogue = true
+rainbow = true
+foxitreader = true
+chrome = true
+excel = true
+douglas = true
+emacs = true
+sqldeveloper = true
+visualstudio = true
+gitter = true
+notepadplusplus = true
+explorer = true
+typora = true
+ssms = true
+atom = true
+fman = true
+jetbrains = true
+flashdevelop = true
+cmd = true
+eclipse = true
+dragon = true
+legion = true
+wsr = true
+totalcmd = true
+rstudio = true
+gitbash = true
+sublime = true
+
+[miscellaneous]
+max_ccr_repetitions = 13
+online_mode = true
+integer_remap_crash_fix = false
+atom_palette_wait = 30
+use_aenea = false
+legion_vertical_columns = 30
+print_rdescripts = false
+dev_commands = false
+integer_remap_opt_in = false
+rdp_mode = false
+keypress_wait = 50
+history_playback_delay_secs = 1.0
+
+[sikuli]
+version = "1.1.4"
+enabled = true
+
+["one time warnings"]
+
+[nodes]
+
+[formats.HTML]
+secondary_format = [ 5, 2,]
+text_format = [ 5, 0,]
+
+[formats.Java]
+secondary_format = [ 2, 1,]
+text_format = [ 3, 1,]
+
+[formats.Rust]
+secondary_format = [ 2, 1,]
+text_format = [ 5, 3,]
+
+[formats.sequel]
+secondary_format = [ 1, 3,]
+text_format = [ 5, 3,]
+
+[formats.Python]
+secondary_format = [ 2, 1,]
+text_format = [ 5, 3,]
+
+[formats.matlab]
+secondary_format = [ 1, 3,]
+text_format = [ 3, 1,]
+
+[formats."C plus plus"]
+secondary_format = [ 2, 1,]
+text_format = [ 3, 1,]
+
+[formats.Dart]
+secondary_format = [ 2, 1,]
+text_format = [ 3, 1,]
+
+[formats."C sharp"]
+secondary_format = [ 2, 1,]
+text_format = [ 3, 1,]
+
+[formats._default]
+secondary_format = [ 1, 0,]
+text_format = [ 5, 0,]
+
+[formats.Javascript]
+secondary_format = [ 2, 1,]
+text_format = [ 3, 1,]
