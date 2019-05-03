@@ -1,7 +1,10 @@
-enabling_order = [ "navigation", "punctuation", "alphabet", "are",]
+ccr_on = true
+enabling_order = [ "navigation", "punctuation", "alphabet", "latex",]
 
 [app]
 "flash develop test" = true
+"git bash" = true
+"visual studio code continuous" = true
 
 [global]
 Javascript = false
@@ -22,14 +25,15 @@ Bash = false
 development = false
 sequel = false
 Rust = false
-latex = false
+latex = true
 "lay tech" = false
 decker = false
 Go = false
 "C sharp" = false
 "test rule" = false
 navigation = true
-are = true
+"voice dev commands" = false
+are = false
 
 [selfmod]
 "chain alias" = true

@@ -1,0 +1,41 @@
+[website]
+dragonfly = "https://dragonfly2.readthedocs.io/en/latest/"
+"dragonfly gitter" = "https://gitter.im/sphinx-dragonfly"
+caster = "https://caster.readthedocs.io/en/latest/"
+google = "https://www.google.com"
+"caster gitter" = "https://gitter.im/synkarius/caster"
+"caster github" = "https://github.com/dictation-toolbox/caster/issues"
+"caster discord" = "https://discord.gg/9eAAsCJr"
+"GPL NZ slack" = "https://gpl-nz-proj.slack.com"
+"climate NZ slack" = "https://nzclimateimpacts.slack.com"
+"migration slack" = "https://climateimpactlab.slack.com"
+
+[folder]
+libraries = "%USERPROFILE%"
+"my pictures" = "%USERPROFILE%\\Pictures"
+"my documents" = "%USERPROFILE%\\Documents"
+"caster user" = "%USERPROFILE%\\.caster"
+"caster filters" = "%USERPROFILE%\\.caster\\filters"
+"caster rules" = "%USERPROFILE%\\.caster\\rules"
+"caster data" = "%USERPROFILE%\\.caster\\data"
+"sick you lee sources" = "%USERPROFILE%\\.caster\\sikuli"
+"team folder" = "%DROPBOX%\\projects_ac\\Team_folder"
+"pasture writeup" = "%DROPBOX%\\Apps\\Overleaf\\pasture\\writeup"
+"pasture and climate" = "%DROPBOX%\\projects_ac\\Team_folder\\Papers\\pasture_and_climate"
+
+[program]
+notepad = "C:\\Windows\\notepad.exe"
+
+[file]
+"caster settings" = "%USERPROFILE%\\.caster\\data\\settings.toml"
+"caster alias" = "%USERPROFILE%\\.caster\\data\\aliases.toml"
+"caster bring me" = "%USERPROFILE%\\.caster\\data\\bringme.toml"
+"caster ccr" = "%USERPROFILE%\\.caster\\data\\ccr.toml"
+"caster config debug" = "%USERPROFILE%\\.caster\\data\\configdebug.txt"
+"caster words" = "%USERPROFILE%\\.caster\\data\\words.txt"
+"caster log" = "%USERPROFILE%\\.caster\\data\\log.txt"
+"caster rstudio" = "%USERPROFILE%\\Documents\\caster\\castervoice\\apps\\rstudio.py"
+"caster explorer" = "%USERPROFILE%\\Documents\\caster\\castervoice\\apps\\explorer.py"
+"caster chrome" = "%USERPROFILE%\\Documents\\caster\\castervoice\\apps\\chrome.py"
+"caster navigation" = "%USERPROFILE%\\Documents\\caster\\castervoice\\lib\\ccr\\core\\nav.py"
+"caster latex" = "%USERPROFILE%\\Documents\\caster\\castervoice\\lib\\ccr\\latex\\latex.py"

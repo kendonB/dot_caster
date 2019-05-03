@@ -5,7 +5,7 @@ jquery = "J query"
 [paths]
 USER_DIR = "C:/Users/kmbel/.caster"
 WSR_PATH = "C:/Windows/Speech/Common/sapisvr.exe"
-RAINBOW_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/mouse/grids.py"
+SETTINGS_WINDOW_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/settingswindow.py"
 CONFIGDEBUGTXT_PATH = "C:/Users/kmbel/.caster/data/configdebug.txt"
 SAVED_CLIPBOARD_PATH = "C:/Users/kmbel/.caster/data/clipboard.toml"
 MEDIA_PATH = "C:/Users/kmbel/Documents/caster/castervoice/bin/media"
@@ -18,26 +18,26 @@ HOMUNCULUS_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/hmc/h_laun
 BRINGME_DEFAULTS_PATH = "C:/Users/kmbel/Documents/caster/castervoice/bin/share/bringme.toml.defaults"
 DOUGLAS_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/mouse/grids.py"
 REMOTE_DEBUGGER_PATH = ""
-CCR_CONFIG_PATH = "C:/Users/kmbel/.caster/data/ccr.toml"
+WXPYTHON_PATH = "C:/Python27/Lib/site-packages/wx-3.0-msw"
 SIKULI_RUNNER = "C:/SikuliX/SikuliX_1.1.4/sikulix.jar"
 LEGION_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/mouse/legion.py"
-WXPYTHON_PATH = "C:/Python27/Lib/site-packages/wx-3.0-msw"
+CCR_CONFIG_PATH = "C:/Users/kmbel/.caster/data/ccr.toml"
 REBOOT_PATH = "C:/Users/kmbel/Documents/caster/castervoice/bin/reboot.bat"
 RECORDED_MACROS_PATH = "C:/Users/kmbel/.caster/data/recorded_macros.toml"
 SIKULI_SERVER_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/sikuli/server/xmlrpc_server.sikuli"
 FILTER_DEFS_PATH = "C:/Users/kmbel/.caster/data/words.txt"
 REBOOT_PATH_WSR = "C:/Users/kmbel/Documents/caster/castervoice/bin/reboot_wsr.bat"
-SETTINGS_WINDOW_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/settingswindow.py"
+RAINBOW_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/mouse/grids.py"
 BASE_PATH = "C:/Users/kmbel/Documents/caster/castervoice"
 PYTHONW = "C:/Python27/pythonw"
 ALIAS_PATH = "C:/Users/kmbel/.caster/data/aliases.toml"
 SIKULI_SCRIPTS_PATH = "C:/Users/kmbel/.caster/sikuli"
 
 [feature_rules]
-again = true
-hmc = true
-chainalias = true
 alias = true
+again = true
+chainalias = true
+hmc = true
 
 [python]
 pip = "pip"
@@ -68,6 +68,7 @@ explorer = true
 typora = true
 ssms = true
 atom = true
+acrobat = true
 fman = true
 jetbrains = true
 flashdevelop = true
@@ -76,17 +77,17 @@ eclipse = true
 dragon = true
 legion = true
 wsr = true
-totalcmd = true
+sublime = true
 rstudio = true
 gitbash = true
-sublime = true
+totalcmd = true
 
 [miscellaneous]
 max_ccr_repetitions = 13
 online_mode = true
-integer_remap_crash_fix = false
-atom_palette_wait = 30
 use_aenea = false
+atom_palette_wait = 30
+integer_remap_crash_fix = false
 legion_vertical_columns = 30
 print_rdescripts = false
 dev_commands = false

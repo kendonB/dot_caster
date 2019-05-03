@@ -5,6 +5,7 @@ console -> soul
 help -> docs
 chain -> our pipe
 assign -> ass
+goof -> gas
 <<<NOT_SPECS>>>
 goof -> gas
 echo -> eco-

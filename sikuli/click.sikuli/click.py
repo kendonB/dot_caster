@@ -30,3 +30,7 @@ def export_pop_out():
 def export_pop_in():
     wait("1554853726309.png", 20)
     click("1554853761809.png")
+
+def export_zotero():
+    wait("1556585962934.png", 20)
+    click("1556585962934.png")
