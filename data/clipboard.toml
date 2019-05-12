@@ -1,0 +1,3 @@
+8 = "_NEXUS"
+100 = " + Key(\"f3/100\")*Repeat(extra=\"n50\") + Key(\"s-f3/100\") + Key(\"escape/100\")"
+3 = "navigation"

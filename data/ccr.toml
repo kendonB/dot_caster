@@ -11,9 +11,9 @@ Javascript = false
 Java = false
 VHDL = false
 hacks = false
-prolog = false
 "C plus plus" = false
 numbers = true
+are = false
 Python = false
 alphabet = true
 punctuation = true
@@ -33,7 +33,7 @@ Go = false
 "test rule" = false
 navigation = true
 "voice dev commands" = false
-are = false
+prolog = false
 
 [selfmod]
 "chain alias" = true

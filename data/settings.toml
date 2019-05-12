@@ -5,7 +5,7 @@ jquery = "J query"
 [paths]
 USER_DIR = "C:/Users/kmbel/.caster"
 WSR_PATH = "C:/Windows/Speech/Common/sapisvr.exe"
-SETTINGS_WINDOW_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/settingswindow.py"
+RAINBOW_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/mouse/grids.py"
 CONFIGDEBUGTXT_PATH = "C:/Users/kmbel/.caster/data/configdebug.txt"
 SAVED_CLIPBOARD_PATH = "C:/Users/kmbel/.caster/data/clipboard.toml"
 MEDIA_PATH = "C:/Users/kmbel/Documents/caster/castervoice/bin/media"
@@ -16,18 +16,19 @@ ENGINE_PATH = "C:/Program Files (x86)/Nuance/NaturallySpeaking15/Program/natspea
 SIKULI_IDE = "C:/SikuliX/SikuliX_1.1.4/sikulix.jar"
 HOMUNCULUS_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/hmc/h_launch.py"
 BRINGME_DEFAULTS_PATH = "C:/Users/kmbel/Documents/caster/castervoice/bin/share/bringme.toml.defaults"
+GIT_FOLDER_REMOTE_URL_PATH = "C:/Users/kmbel/.caster/data/local_to_remote_git_match.toml"
 DOUGLAS_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/mouse/grids.py"
 REMOTE_DEBUGGER_PATH = ""
-WXPYTHON_PATH = "C:/Python27/Lib/site-packages/wx-3.0-msw"
+CCR_CONFIG_PATH = "C:/Users/kmbel/.caster/data/ccr.toml"
 SIKULI_RUNNER = "C:/SikuliX/SikuliX_1.1.4/sikulix.jar"
 LEGION_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/mouse/legion.py"
-CCR_CONFIG_PATH = "C:/Users/kmbel/.caster/data/ccr.toml"
+WXPYTHON_PATH = "C:/Python27/Lib/site-packages/wx-3.0-msw"
 REBOOT_PATH = "C:/Users/kmbel/Documents/caster/castervoice/bin/reboot.bat"
 RECORDED_MACROS_PATH = "C:/Users/kmbel/.caster/data/recorded_macros.toml"
 SIKULI_SERVER_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/sikuli/server/xmlrpc_server.sikuli"
 FILTER_DEFS_PATH = "C:/Users/kmbel/.caster/data/words.txt"
 REBOOT_PATH_WSR = "C:/Users/kmbel/Documents/caster/castervoice/bin/reboot_wsr.bat"
-RAINBOW_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/mouse/grids.py"
+SETTINGS_WINDOW_PATH = "C:/Users/kmbel/Documents/caster/castervoice/asynch/settingswindow.py"
 BASE_PATH = "C:/Users/kmbel/Documents/caster/castervoice"
 PYTHONW = "C:/Python27/pythonw"
 ALIAS_PATH = "C:/Users/kmbel/.caster/data/aliases.toml"
@@ -35,9 +36,9 @@ SIKULI_SCRIPTS_PATH = "C:/Users/kmbel/.caster/sikuli"
 
 [feature_rules]
 alias = true
-again = true
-chainalias = true
 hmc = true
+chainalias = true
+again = true
 
 [python]
 pip = "pip"
@@ -67,6 +68,7 @@ notepadplusplus = true
 explorer = true
 typora = true
 ssms = true
+texstudio = true
 atom = true
 acrobat = true
 fman = true
@@ -77,17 +79,17 @@ eclipse = true
 dragon = true
 legion = true
 wsr = true
-sublime = true
+totalcmd = true
 rstudio = true
 gitbash = true
-totalcmd = true
+sublime = true
 
 [miscellaneous]
 max_ccr_repetitions = 13
 online_mode = true
-use_aenea = false
-atom_palette_wait = 30
 integer_remap_crash_fix = false
+atom_palette_wait = 30
+use_aenea = false
 legion_vertical_columns = 30
 print_rdescripts = false
 dev_commands = false
