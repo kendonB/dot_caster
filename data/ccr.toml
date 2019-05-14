@@ -1,5 +1,5 @@
 ccr_on = true
-enabling_order = [ "navigation", "punctuation", "alphabet", "latex",]
+enabling_order = [ "navigation", "punctuation", "alphabet", "are",]
 
 [app]
 "flash develop test" = true
@@ -11,9 +11,9 @@ Javascript = false
 Java = false
 VHDL = false
 hacks = false
+prolog = false
 "C plus plus" = false
 numbers = true
-are = false
 Python = false
 alphabet = true
 punctuation = true
@@ -25,7 +25,7 @@ Bash = false
 development = false
 sequel = false
 Rust = false
-latex = true
+latex = false
 "lay tech" = false
 decker = false
 Go = false
@@ -33,7 +33,7 @@ Go = false
 "test rule" = false
 navigation = true
 "voice dev commands" = false
-prolog = false
+are = true
 
 [selfmod]
 "chain alias" = true
