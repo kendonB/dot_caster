@@ -7,8 +7,9 @@ google = "https://www.google.com"
 "caster github" = "https://github.com/dictation-toolbox/caster/issues"
 "caster discord" = "https://discord.gg/9eAAsCJr"
 "GPL NZ slack" = "https://gpl-nz-proj.slack.com"
-"climate NZ slack" = "https://nzclimateimpacts.slack.com"
+"(climate NZ | NZ climate) slack" = "https://nzclimateimpacts.slack.com"
 "migration slack" = "https://climateimpactlab.slack.com"
+"my outlook" = "https://outlook.office.com/mail/inbox"
 
 [folder]
 libraries = "%USERPROFILE%"
@@ -22,6 +23,7 @@ libraries = "%USERPROFILE%"
 "team folder" = "%DROPBOX%\\projects_ac\\Team_folder"
 "pasture writeup" = "%DROPBOX%\\Apps\\Overleaf\\pasture\\writeup"
 "pasture and climate" = "%DROPBOX%\\projects_ac\\Team_folder\\Papers\\pasture_and_climate"
+"drop box" = "%DROPBOX%"
 
 [program]
 notepad = "C:\\Windows\\notepad.exe"
@@ -39,3 +41,6 @@ notepad = "C:\\Windows\\notepad.exe"
 "caster chrome" = "%USERPROFILE%\\Documents\\caster\\castervoice\\apps\\chrome.py"
 "caster navigation" = "%USERPROFILE%\\Documents\\caster\\castervoice\\lib\\ccr\\core\\nav.py"
 "caster latex" = "%USERPROFILE%\\Documents\\caster\\castervoice\\lib\\ccr\\latex\\latex.py"
+"caster are" = "%USERPROFILE%\\Documents\\caster\\castervoice\\lib\\ccr\\r\\r.py"
+"ag policy project" = "%DROPBOX%\\projects_ac\\agpolicyandghgs\\agpolicyandghgs.Rproj"
+
