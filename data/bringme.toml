@@ -46,6 +46,7 @@ textbooks = "%DROPBOX%\\Textbooks"
 "my pictures" = "%USERPROFILE%\\Pictures"
 "caster rules" = "%USERPROFILE%\\.caster\\rules"
 "team folder" = "%DROPBOX%\\projects_ac\\Team_folder"
+"ag policy [project] folder" = "%DROPBOX%\\projects_ac\\agpolicyandghgs"
 
 [program]
 notepad = "C:\\Windows\\notepad.exe"
