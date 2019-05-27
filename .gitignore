@@ -3,3 +3,5 @@
 /data/clipboard.toml
 /data/configdebug.txt
 /log.txt
+*.pyc
+*$py.class
