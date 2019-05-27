@@ -138,10 +138,11 @@ def export_manaaki_whenua():
     myApp.focus()
     sleep(0.2)
     bounds = getBounds()
+    print(bounds.width)
     if bounds.width == 2560:
         corner = Region(1761,0,799,662)
     else:    
-        corner = Region(1519,3,311,93)
+        corner = Region(1240,9,608,613)
     corner.wait("1552968938463.png", 20)
     sleep(1)
     corner.click("1552968938463.png")
