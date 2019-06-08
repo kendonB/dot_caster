@@ -7,3 +7,4 @@
 *.pyc
 *$py.class*
 *$py.class
+**/nppBackup
