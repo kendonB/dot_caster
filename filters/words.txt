@@ -1,17 +1,2 @@
-<<<SPEC>>>
-focus -> look
-main -> ed
-console -> soul
-help -> docs
-chain -> our pipe
-assign -> ass
-goof -> gas
 <<<NOT_SPECS>>>
-goof -> gas
-echo -> eco-
-Sierra -> sugar
-snake -> score
-gum -> flat
-gun -> flat
-back -> scoopdeepoop
-sing -> dock
+shin -> shinshin
