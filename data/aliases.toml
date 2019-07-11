@@ -1,0 +1,10 @@
+[single_aliases]
+
+[chain_aliases]
+"beta see" = "\\beta_{C}"
+"one over Sigma" = "\\frac{1}{\\sigma}"
+RF = "r_{f}"
+P1 = "P_{1}"
+GC = "g_{C}"
+RM = "r_{m}"
+"leak P1" = "$P_{1}$"
