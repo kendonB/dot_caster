@@ -1,3 +1,5 @@
+DEPRECATED: THESE FILES ONLY WORK FOR OLD VERSIONS OF CASTER. SEE `caster_user` for my recent files.
+
 # dot_caster
 my personal caster user files.
 
